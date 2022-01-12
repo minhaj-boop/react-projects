@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Tyre Repair",
+        "price": 2000,
+        "time": 2,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum possimus pariatur libero magni quia ratione, nesciunt obcaecati dicta fugiat fuga eligendi, velit dolores earum nemo sit amet exercitationem ipsum sint?",
+        "img": "https://i.ibb.co/bRhnY08/pic1.png"
+    },
+    {
+        "id": 2,
+        "name": "Engine Repair",
+        "price": 8000,
+        "time": 11,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum possimus pariatur libero magni quia ratione, nesciunt obcaecati dicta fugiat fuga eligendi, velit dolores earum nemo sit amet exercitationem ipsum sint?",
+        "img": "https://i.ibb.co/x8sWdQ5/pic2.png"
+    },
+    {
+        "id": 3,
+        "name": "Bonnet Repair",
+        "price": 150,
+        "time": 3,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum possimus pariatur libero magni quia ratione, nesciunt obcaecati dicta fugiat fuga eligendi, velit dolores earum nemo sit amet exercitationem ipsum sint?",
+        "img": "https://i.ibb.co/wdFnZjJ/pic3.png"
+    },
+    {
+        "id": 4,
+        "name": "Windshield Change",
+        "price": 5300,
+        "time": 6,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum possimus pariatur libero magni quia ratione, nesciunt obcaecati dicta fugiat fuga eligendi, velit dolores earum nemo sit amet exercitationem ipsum sint?",
+        "img": "https://i.ibb.co/VCqVHqd/pic4.png"
+    },
+    {
+        "id": 5,
+        "name": "Hood Change",
+        "price": 700,
+        "time": 2,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum possimus pariatur libero magni quia ratione, nesciunt obcaecati dicta fugiat fuga eligendi, velit dolores earum nemo sit amet exercitationem ipsum sint?",
+        "img": "https://i.ibb.co/3f2YLJG/pic5.png"
+    },
+    {
+        "id": 6,
+        "name": "Door Repair",
+        "price": 2100,
+        "time": 7,
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum possimus pariatur libero magni quia ratione, nesciunt obcaecati dicta fugiat fuga eligendi, velit dolores earum nemo sit amet exercitationem ipsum sint?",
+        "img": "https://i.ibb.co/GJfvzHk/pic6.png"
+    }
+]

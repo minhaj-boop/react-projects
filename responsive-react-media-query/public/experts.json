@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co/NZBW1jR/m1.png",
+        "name": "Kalia",
+        "erpertise": "Luling"
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co/kcC8yHr/m2.png",
+        "name": "Iliyas",
+        "erpertise": "Meowing"
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co/h2fyKNL/m3.png",
+        "name": "Skip Khan",
+        "erpertise": "Crying"
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co/2YfVx74/m4.png",
+        "name": "Zayed Gun",
+        "erpertise": "Honesty"
+    },
+    {
+        "id": 5,
+        "img": "https://i.ibb.co/WDpF3Qv/m5.png",
+        "name": "Bappi Bro",
+        "erpertise": "Prem"
+    }
+]
